@@ -10,7 +10,7 @@ if not isinstance(x, (int, float)):
 ```
 
 3.function can return several results.
-```
+```py
 import math
 
 def move(x, y, step, angle=0):
