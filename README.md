@@ -4,7 +4,7 @@
 from xx(xx.py) import xx(a function in xx.py)
 
 2.Type error
-```
+```cpp
 if not isinstance(x, (int, float)): 
    raise TypeError('bad operand type')
 ```
